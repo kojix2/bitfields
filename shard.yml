@@ -4,6 +4,6 @@ version: 0.35.1
 authors:
   - Isaac Sloan <isaac@isaacsloan.com>
 
-crystal: 0.31.1
+crystal: ~> 1.0.0
 
 license: MIT
